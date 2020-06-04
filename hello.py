@@ -1,4 +1,4 @@
-pound = 2.204623
+#pound = 2.204623
 weight_pounds = input('Enter your weight in pounds: ')
 
 weight_kilogram= float(pound) * float(weight_pounds)
