@@ -1,5 +1,5 @@
-birth_year = input('Enter your birth year: ')
-print(type(birth_year))
-age = 2020 - int(birth_year)
-print(type(age))
-print(age)
+pound = 2.204623
+weight_pounds = input('Enter your weight in pounds: ')
+
+weight_kilogram= float(pound) * float(weight_pounds)
+print(weight_kilogram)
